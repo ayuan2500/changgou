@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>changgou-core-service</module>
+        <module>changgou-core-controller</module>
     </modules>
 
 </project>
